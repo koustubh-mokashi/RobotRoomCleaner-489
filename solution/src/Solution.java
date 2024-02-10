@@ -67,26 +67,3 @@ class Solution {
     }
 
 }
-
-
-/*
-Subject: Reporting Inappropriate Communication Incident
-
-Dear [HR Manager's Name],
-
-I hope this email finds you well. I am writing to bring to your attention an incident that occurred recently involving a team member, [Team Member's Name]. On [date], [he/she] sent an inappropriate message to several female colleagues via Instagram, where [he/she] asked them to be [his/her] Valentine.
-
-While [he/she] later claimed it was a mistake and promptly unsent the message, I believe it is crucial to address such incidents to maintain a respectful and professional work environment. Some of the recipients of the message are married, and this type of communication can be perceived as intrusive and uncomfortable.
-
-I recommend addressing this matter to prevent any potential recurrence and to reinforce the importance of maintaining professionalism in our team. I trust that appropriate action will be taken to ensure a respectful workplace for everyone.
-
-Thank you for your attention to this matter.
-
-Best regards,
-
-[Your Name]
-[Your Position]
-[Your Contact Information]
-
-
-*/
